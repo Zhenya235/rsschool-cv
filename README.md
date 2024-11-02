@@ -1,3 +1,3 @@
 # [rsschool-cv](https://zhenya235.github.io/rsschool-cv/cv)
 
-https://zhenya235.github.io/rsschool-cv/
+https://zhenya235.github.io/rsschool-cv/cv
